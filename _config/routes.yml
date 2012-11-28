@@ -1,0 +1,6 @@
+---
+Name: googleanalyticsexcluder
+---
+Director:
+  rules:
+    'googleanalyticsexcluder': 'GoogleAnalyticsExcluder'
